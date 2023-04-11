@@ -1,5 +1,31 @@
-# Form-validation
- Um exercício sobre Validando um Formulário em JavaScript puro usando classes.
+# <h1 align="center">Form-validation</h1>
+
+<img src="https://user-images.githubusercontent.com/74615811/231291615-50ea7a9c-c5cd-4639-bbc0-dc695cb63e8d.png" align="center" alt="Imagem do Formulário">
+
+<p align="center">
+<img src="https://camo.githubusercontent.com/31ddbceac85190c41164841d133e4056da4d4ce57a1a3a8c7cbf40bff1cf71ed/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f6c6963656e73652f64726f70626f782f64726f70626f782d73646b2d6a617661">
+<img src="https://user-images.githubusercontent.com/74615811/176503364-50b5ee48-3d6d-4ab3-ae4b-e6fb7724296b.svg">
+<img src="https://user-images.githubusercontent.com/74615811/176503773-dd0bc4ec-fbde-4e70-80d6-9695ff5ef67c.svg">
+<img src="https://img.shields.io/badge/Done%20by-Leonardo Machado-%df0000">
+</p>
+
+<p align="center">
+<img src="http://img.shields.io/static/v1?label=STATUS&message=%20FINISHED&color=GREEN&style=for-the-badge"/>
+</p>
+
+## 💻 Descrição do projeto / Description of the project
+
+<h2>Portuguese</h2> Um exercício sobre Validando um Formulário em JavaScript puro usando classes. <br>
+
+<h2>English</h2> An exercise on Validating a Form in pure JavaScript using classes.
+
+---
+
+## ⚙️ Funcionalidades / Functionalities
+- `Funcionalidade 1`: Validar os campos do formulário. <br>
+English: Validate form fields.
+
+---
 
 Primeiramente eu tenho uma classe que faz a validação do formulário. O constructor() ele é responsável por chamar o formulário através da classe form e posteriormente ele faz a chamada do metódo events usando o this. O método events adiciona o evento submit que vai fazer o envio do formulário e o método handleSubmit receberá os dados do formulário se a validação do formulário for bem sucedida. A seguir temos os outros métodos: areValidPasswords() que verifica se as senhas são válidas, areValidCamps() verifica se os campos são válidos ele faz um loop for o primeiro percorre o formulário através da variável errorText e remove o erro, ou seja, se o erro já foi mostrado ou se o campo está correto ele remove as mensagens de erro, no segundo for ele seleciona a classe validar, a variável label retorna o nome de cada campo do formulário com erro de que o campo x não pode estar vazio e abaixo as condições verificam se o campo contém a classe cpf e usuario e se for diferente do método a validação passa a ser falsa.
 
