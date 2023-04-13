@@ -51,3 +51,41 @@ Se o tamanho de cpfLimpo for diferente de 11 caracteres return false;
 Se é uma sequência de CPF, ou seja, se contém 11 caracteres se não houver return false;
 Gera um novo CPF;
 Retorna se o CPF novo é igual ao CPF que me foi enviado;
+
+## Aplicação
+
+### Mobile
+
+<p align="center">
+
+![Captura de tela 2023-04-13 122853](https://user-images.githubusercontent.com/74615811/231809165-efa0917c-a713-4aa4-87de-96e15ce7eb28.png)
+
+</p>
+
+### Web
+
+<p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
+
+![Captura de tela 2023-04-13 122734](https://user-images.githubusercontent.com/74615811/231809348-bfb48a4f-3c2f-4cd1-af46-202e20b89d9f.png)
+  
+</p>
+
+---
+
+## Tecnologias / Tecnologies
+- ``HTML``
+- ``CSS``
+- ``JavaScript``
+
+## 📁 Acesso ao projeto / Access the project
+
+Portuguese: Você pode acessar os arquivos do projeto clicando [aqui](https://github.com/LeonardoMancilha/Form-validation/find/main). <br>
+English: You can access the project files by clicking [here](https://github.com/LeonardoMancilha/Form-validation/find/main).
+
+## 📝 Licença / License
+
+Portuguese: Este projeto esta sobe a licença [MIT](./LICENSE). <br>
+English: This project is under license [MIT](./LICENSE).
+
+Portuguese: Feito com ❤️ por Leonardo Machado 👋🏽 [Entre em contato!](https://www.linkedin.com/in/leonardomancilha/) <br>
+English: Made with ❤️ by Leonardo Machado 👋🏽 [Contact me!](https://www.linkedin.com/in/leonardomancilha/)
