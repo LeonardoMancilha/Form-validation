@@ -22,7 +22,7 @@
 ---
 
 ## ⚙️ Funcionalidades / Functionalities
-- `Funcionalidade 1`: Validar os campos do formulário. <br>
+- `Funcionalidade`: Validar os campos do formulário. <br>
 English: Validate form fields.
 
 ---
@@ -87,5 +87,5 @@ English: You can access the project files by clicking [here](https://github.com/
 Portuguese: Este projeto esta sobe a licença [MIT](./LICENSE). <br>
 English: This project is under license [MIT](./LICENSE).
 
-Portuguese: Feito com ❤️ por Leonardo Machado 👋🏽 [Entre em contato!](https://www.linkedin.com/in/leonardomancilha/) <br>
-English: Made with ❤️ by Leonardo Machado 👋🏽 [Contact me!](https://www.linkedin.com/in/leonardomancilha/)
+Portuguese: Feito com ❤️ por Leonardo Machado 👋🏽 [Entre em contato!](https://www.linkedin.com/in/leonardommachado/) <br>
+English: Made with ❤️ by Leonardo Machado 👋🏽 [Contact me!](https://www.linkedin.com/in/leonardommachado/)
